@@ -1,4 +1,3 @@
-# learing
-i am learning
-to view website go on
+# indevlopment
+to view website go on <br>
  https://aaravshar.github.io/learing/
